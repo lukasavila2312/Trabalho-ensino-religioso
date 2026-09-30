@@ -4,6 +4,7 @@ body {
 }
 h4 {
   align-items: left;
+  text-align: left;
 }
 .botoesP {
   background-color: lightblue;
