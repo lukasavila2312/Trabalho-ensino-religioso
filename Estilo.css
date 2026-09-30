@@ -1,9 +1,6 @@
-h1,p,button {
+body {
   align-items: center;
   text-align: center;
-}
-.botoesC{
-  align-items: center;
 }
 .botoesP {
   background-color: lightblue;
