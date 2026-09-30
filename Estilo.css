@@ -5,5 +5,5 @@ h1,p {
   background-color: lightblue;
   width:50%;
   height: 100px;
-  text-align: center;;
+  align-items: center;
 }
