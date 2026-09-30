@@ -1,9 +1,11 @@
 h1,p {
   text-align: center;
 }
+.botoesC{
+  align-items: center;
+}
 .botoesP {
   background-color: lightblue;
   width:50%;
   height: 100px;
-  align-items: center;
 }
