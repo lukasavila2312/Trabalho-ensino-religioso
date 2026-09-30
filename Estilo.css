@@ -2,5 +2,7 @@ h1,p {
   text-align: center;
 }
 .botoesP {
-  background-color: lightblue
+  background-color: lightblue;
+  width:50%;
+  height: 100px;
 }
