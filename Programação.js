@@ -7,7 +7,7 @@ let clicado5 = false;
 function abrir1(){
   if(clicado1 = 1){
     clicado1 = 2;
-    document.getElementById("R1").innerText ="Bolas";
+    document.getElementById("R1").innerText="Bolas";
     return;
   }
   else if(clicado1 = 2){
