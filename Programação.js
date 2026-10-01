@@ -15,3 +15,47 @@ function abrir1(){
     document.getElementById("R1").innerText= ""
   }
 }
+function abrir2(){
+  if(clicado1 === false){
+    clicado1 = true;
+    document.getElementById("R2").innerText="Bolas";
+    return;
+  }
+  else{
+    clicado1 = false;
+    document.getElementById("R2").innerText= ""
+  }
+}
+function abrir3(){
+  if(clicado1 === false){
+    clicado1 = true;
+    document.getElementById("R3").innerText="Bolas";
+    return;
+  }
+  else{
+    clicado1 = false;
+    document.getElementById("R3").innerText= ""
+  }
+}
+function abrir4(){
+  if(clicado1 === false){
+    clicado1 = true;
+    document.getElementById("R4").innerText="Bolas";
+    return;
+  }
+  else{
+    clicado1 = false;
+    document.getElementById("R4").innerText= ""
+  }
+}
+function abrir5(){
+  if(clicado1 === false){
+    clicado1 = true;
+    document.getElementById("R5").innerText="Bolas";
+    return;
+  }
+  else{
+    clicado1 = false;
+    document.getElementById("R5").innerText= ""
+  }
+}
