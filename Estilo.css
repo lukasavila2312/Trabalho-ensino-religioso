@@ -9,7 +9,7 @@ h4 {
 .perguntas{
   align-items:left;
   text-align: left;
-  font-size: 50px;
+  font-size: 30px;
 }
 .botoesP {
   background-color: lightblue;
@@ -19,5 +19,5 @@ h4 {
 .R{
   align-items: center;
   text-align: center;
-  font-size: 50px;
+  font-size: 30px;
 }
